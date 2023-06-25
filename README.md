@@ -2,6 +2,8 @@
 
 [![GitHub followers](https://img.shields.io/github/followers/BilalSardar009?label=Follow&style=social)](https://github.com/BilalSardar009)
 ![Profile Views](https://komarev.com/ghpvc/?username=BilalSardar009&color=blue)
+![Profile Views](https://profile-counter.glitch.me/<BilalSardar009>/count.svg?start=100)
+
 
 
 👋 Hello there! I'm Bilal Sardar, a dedicated developer with a profound love for building cutting-edge machine learning models and mobile applications.
