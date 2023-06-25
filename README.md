@@ -1,16 +1,21 @@
-### Hi there 👋
+# Bilal Sardar's GitHub Profile
 
-<!--
-**BilalSardar009/BilalSardar009** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![GitHub followers](https://img.shields.io/github/followers/<username>?label=Follow&style=social)](https://github.com/<username>)
+[![Twitter Follow](https://img.shields.io/twitter/follow/<twitter_handle>?style=social)](https://twitter.com/<twitter_handle>)
 
-Here are some ideas to get you started:
+Welcome to my GitHub profile! Here, you'll find a collection of my open-source projects and contributions. Feel free to explore, contribute, and reach out to me for collaboration opportunities.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧑‍💻 About Me
+
+Briefly introduce yourself, highlighting your areas of expertise, interests, and any relevant background information. Mention your passion for open source and your commitment to fostering a collaborative community.
+
+## 💼 Skills
+
+- AI/ML Model Development.
+- Web, Mobile, and Desktop Application Development.
+
+## 📫 Contact Me
+
+Let others know how they can reach out to you. Provide links to your email, social media profiles, or other preferred communication channels.
+
+- Email: [contactbilalsardar@gmail.com](mailto:contactbilalsardar@gmail.com)
