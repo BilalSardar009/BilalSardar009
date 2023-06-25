@@ -1,13 +1,8 @@
 # Bilal Sardar's GitHub Profile
 
-[![GitHub followers](https://img.shields.io/github/followers/<username>?label=Follow&style=social)](https://github.com/<username>)
-[![Twitter Follow](https://img.shields.io/twitter/follow/<twitter_handle>?style=social)](https://twitter.com/<twitter_handle>)
+[![GitHub followers](https://img.shields.io/github/followers/<BilalSardar009>?label=Follow&style=social)](https://github.com/BilalSardar009)
 
-Welcome to my GitHub profile! Here, you'll find a collection of my open-source projects and contributions. Feel free to explore, contribute, and reach out to me for collaboration opportunities.
-
-## 🧑‍💻 About Me
-
-Briefly introduce yourself, highlighting your areas of expertise, interests, and any relevant background information. Mention your passion for open source and your commitment to fostering a collaborative community.
+👋 Hello there! I'm Bilal Sardar, a dedicated developer with a profound love for building cutting-edge machine learning models and mobile applications.
 
 ## 💼 Skills
 
